@@ -96,7 +96,7 @@ Twitter URL: ${q}
 ┃
 ┗━━━━━━━━━━━━━━━
 ┏━━━━❮📝 𝗦𝘁𝗮𝘁𝘂𝘀 𝗗𝗲𝘁𝗮𝗶𝗹𝘀 📝❯━━━
-┃🗣️ 𝚄𝚜𝚎𝚛 : ${pushname}
+┃🗣️ 𝚄𝚜𝚎𝚛 : ${CP_OWNER}
 ┃🤖 𝙱𝚘𝚝 : © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ V${packageJson.version}
 ┃📜 𝙿𝚛𝚎𝚏𝚒𝚡 : ${config.PREFIX}
 ┃📚 𝚅𝚎𝚛𝚜𝚒𝚘𝚗 : ${packageJson.version}
